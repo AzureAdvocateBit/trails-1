@@ -22,7 +22,7 @@ In this course, Shayne Boyer shows how to build a web app with ASP.NET Core 1.0 
     * `npm install -g yo generator-aspnet`
     * http://github.com/omnisharp/generator-aspnet
 * Visual Studio Code
-    * https://code.visualstudio.com:80/?WT.mc_id=trails-github-shboyer
+    * https://code.visualstudio.com/?WT.mc_id=trails-github-shboyer
 * OmniSharp
     * http://omnisharp.net
 * ASP.NET Web API
